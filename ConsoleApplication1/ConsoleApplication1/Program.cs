@@ -13,6 +13,7 @@ namespace ConsoleApplication1
 
             // Do the coding for hello world
             Console.WriteLine("Hello world");
+            Console.ReadLine();
         }
     }
 }
